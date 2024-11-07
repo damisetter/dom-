@@ -1,0 +1,25 @@
+/*
+ATIVIDADE 1 
+
+#quadradoUm{
+    background-color: aquamarine; (aqui mudamos a cor do quadrado)
+    width: 100px; (definimos uma largura)
+    height: 100px; (definimos uma altura)
+    float: left; (usamos esse elemento para deixar uma div(nosso quadrado) flutuando ao lado da outra, para ficarem lado a lado)
+    margin-right: 10px; (deixa espaçamento entre as divs(nosso quadrado))
+}
+#quadradoDois{ (aqui acontecem as mesmas coisas que no primeiro e terceiro quadrado, pois são usados os mesmos elementos)
+    background-color: aquamarine;
+    width: 100px;
+    height: 100px;
+    float: left; 
+    margin-right: 10px; 
+}
+#quadradoTres{(aqui acontecem as mesmas coisas que no primeiro e segundo quadrado, pois são usados os mesmos elementos)
+    background-color: aquamarine;
+    width: 100px;
+    height: 100px;
+    float: left; 
+    margin-right: 10px;
+}
+*/
