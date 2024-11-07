@@ -87,3 +87,27 @@ mostrarocultar.addEventListener('click', function() {
     }
 });
 */
+
+/*
+ATIVIDADE 4
+let textoElemento = document.getElementById("texto");
+let Mudarbotao = document.getElementById("mudarTexto");
+
+function modificarTexto() {
+    let novoTexto = prompt("Digite o novo texto:");
+    if (novoTexto) {
+        textoElemento.innerText = novoTexto;
+    }
+}
+Mudarbotao.addEventListener("click", modificarTexto);
+*/
+
+/* ATIVIDADE 5
+var msg = document.getElementById("mensagem");
+function mostrarTeclaPressionada(event) {
+    var tecla = event.key;
+    mensagemElemento.innerText = "Você pressionou: " + tecla;
+}
+document.addEventListener("keydown", mostrarTeclaPressionada);
+*/
+
